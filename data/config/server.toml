@@ -1,0 +1,13 @@
+[server]
+port = 43594
+revision = 999
+cache_path = "data/cache"
+
+[world]
+id = 1
+name = "FinalAstra"
+address = "127.0.0.1"
+
+[rsa]
+modulus = "REPLACE_WITH_MODULUS_HEX"
+exponent = "10001"

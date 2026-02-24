@@ -1,0 +1,15 @@
+.gradle/
+build/
+out/
+.idea/
+*.iml
+logs/
+
+# FinalAstra runtime data
+data/cache/
+data/clients/live/
+data/clients/patched/
+
+# OS
+.DS_Store
+Thumbs.db
